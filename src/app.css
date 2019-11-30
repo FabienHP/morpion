@@ -1,0 +1,81 @@
+.border {
+    height: 600px;
+    width: 600px;
+    border: 1px solid black;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+p {
+    cursor: pointer;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    font-size: 34px;
+}
+
+.border1 {
+    width: 33%;
+    height: 33%;
+    border-bottom: 1px solid black;
+    border-right: 1px solid black;
+    margin: 0;
+}
+
+.border2 {
+    width: 33%;
+    height: 33%;
+    border-bottom: 1px solid black;
+    border-right: 1px solid black;
+    margin: 0;
+}
+
+.border3 {
+    width: 33%;
+    height: 33%;
+    border-bottom: 1px solid black;
+    margin: 0;
+}
+
+.border4 {
+    width: 33%;
+    height: 33%;
+    border-bottom: 1px solid black;
+    border-right: 1px solid black;
+    margin: 0;
+}
+
+.border5 {
+    width: 33%;
+    height: 33%;
+    border-bottom: 1px solid black;
+    border-right: 1px solid black;
+    margin: 0;
+}
+
+.border6 {
+    width: 33%;
+    height: 33%;
+    border-bottom: 1px solid black;
+    margin: 0;
+}
+
+.border7 {
+    width: 33%;
+    height: 33%;
+    border-right: 1px solid black;
+    margin: 0;
+}
+
+.border8 {
+    width: 33%;
+    height: 33%;
+    border-right: 1px solid black;
+    margin: 0;
+}
+
+.border9 {
+    width: 33%;
+    height: 33%;
+    margin: 0;
+}
